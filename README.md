@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**danielbrenom/danielbrenom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Daniel Guiomarino, a brazilian computer engineer that loves developing games and solutions to everyday problems.
 
-Here are some ideas to get you started:
+I've worked as a fullstack and mobile developer. Currently I work as a backend developer using Laravel, Mysql, Mongo and ElastichSearch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a reader app and a Yu-Gi-Oh game on Unity
+- 🌱 I’m currently learning about Laravel and AWS.
+- 📫 How to reach me: danielbrenom@gmail.com
+
+
+## Skills
+Here's some of my skills 👇
+
+[![Generic badge](https://img.shields.io/badge/CSharp-+3yrs-green.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/PHP-+3yrs-green.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/JavaScript-+3yrs-green.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/jQuery-+3yrs-green.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/HTML-+3yrs-green.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/CSS-+3yrs-green.svg)](https://shields.io/) 
