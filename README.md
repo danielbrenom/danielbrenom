@@ -2,7 +2,7 @@
 
 I'm Daniel Guiomarino, a brazilian computer engineer that loves developing games and solutions to everyday problems.
 
-I've worked as a fullstack and mobile developer. Currently I work as a backend/mobile developer using Xamarim, .NET Core and Azure Cloud.
+I've worked as a fullstack and mobile developer. Currently I work as a backend/mobile developer using Xamarin, .NET Core and Azure Cloud.
 
 - 🔭 I’m currently working on a reader app and a Yu-Gi-Oh game on Unity
 - 🌱 I’m currently learning about Xamarim, .NET Core and Azure Cloud.
