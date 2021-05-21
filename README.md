@@ -10,7 +10,7 @@ I've worked as a fullstack and mobile developer. Currently I work as a backend/m
 
 ### Developer profile overview
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=danielbrenom&badges=2&branding=false"/>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=danielbrenom&badges=2&show-avatar=false&branding=false"/>
 
 ### Skills overview
 | Language       | Experience           | Rank  |
