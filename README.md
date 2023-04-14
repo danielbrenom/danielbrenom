@@ -4,7 +4,7 @@ I'm Daniel Guiomarino, a brazilian computer engineer that loves developing games
 
 I'm a fullstack developer, currently working on Robotic Process Automation using .NET @ IBM.
 
-- 🔭 I develop some plugins for the MMORPG Final Fantasy XIV, repos below.
+- 🔭 I develop some plogons for Final Fantasy XIV, repos below.
 - 📫 How to reach me: danielbrenom@gmail.com
 
 ### Developer profile overview
