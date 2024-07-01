@@ -10,3 +10,7 @@ I'm a fullstack developer, currently working on Robotic Process Automation using
 ### Developer profile overview
 
 [CodersRank Profile](https://profile.codersrank.io/user/danielbrenom/)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielbrenom)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielbrenom) 
+
